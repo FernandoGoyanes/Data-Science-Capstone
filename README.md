@@ -12,6 +12,6 @@ The final project is concluded with both a Shiny application and a Pitch Deck Pr
 
 Links to evaluate the Project:
 
- * Milestone Project at: https://github.com/FernandoGoyanes/Data-Science-Capstone/
- * Word Prediction App at https://fernandogoyanes.shinyapps.io/
- * Presentation and Pich Deck at http://rpubs.com/ 
+ * Milestone Project at: https://github.com/FernandoGoyanes/Data-Science-Capstone/ 
+ * Word Prediction App at https://fernandogoyanes.shinyapps.io/NextWordPredictionApp/
+ * Presentation and Pich Deck at http://rpubs.com/FernandoGoyanes/377524
