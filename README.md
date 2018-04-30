@@ -14,4 +14,4 @@ Links to evaluate the Project:
 
  * Milestone Project at: https://github.com/FernandoGoyanes/Data-Science-Capstone/
  * Word Prediction App at https://fernandogoyanes.shinyapps.io/
- * Presentation and Pich Deck at http://rpubs.com/
+ * Presentation and Pich Deck at http://rpubs.com/ 
