@@ -17,7 +17,7 @@ Coursera and SwitfKey are partnering on this project; to apply data science in t
 
 The project uses a large text corpus of documents to predict the next word on preceding input. 
 
-The data is extracted and cleaned from files and used with the Shiny application.
+The data is extracted and cleaned from files and used with the Shiny application. 
 
 In this report is shown some information about the corpus of data and plan steps to create the predictive model.
 
